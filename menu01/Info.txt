@@ -1,0 +1,7 @@
+portuguese
+
+Menu simples com entrada de dois números inteiros e uma interação em um menu simples com a estrutura de repetição while e a estrutura de condição if else.
+
+english
+
+Simple menu with input of two integers and an interaction in a simple menu with the while loop structure and the if else condition structure.
