@@ -1,0 +1,7 @@
+Português:
+
+Simples jogo de JOKENPO feito em Python com cores no terminal.
+
+English:
+
+Simple JOKENPO game made in Python with colors in the terminal.
