@@ -1,0 +1,7 @@
+Português
+
+Jogo extremamente simples, feito com estrutura de condição e cores no terminal.
+
+English
+
+Extremely simple game, made with condition structure and colors in the terminal.
