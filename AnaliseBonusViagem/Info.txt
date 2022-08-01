@@ -1,0 +1,7 @@
+Português
+
+Este pequeno programa analisa arquivos Excel, quando atinge determinado objetivo, o programa detecta e faz o encaminhamento diretamente para o celular do responsável, neste exemplo, é como se fosse uma loja onde estão armazenados as vendas dos vendedores.
+
+English
+
+This small program analyzes Excel files, when it reaches a certain objective, the program detects and forwards it directly to the person responsible's cell phone, in this example, it is as if it were a store where salespeople's sales are stored.
