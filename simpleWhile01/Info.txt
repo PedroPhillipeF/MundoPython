@@ -1,0 +1,7 @@
+Português
+
+Só um pouco de treinamento com a estrutura de repetição while.
+
+English
+
+Just a little training with the while loop structure.
