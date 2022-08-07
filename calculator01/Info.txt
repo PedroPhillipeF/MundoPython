@@ -1,0 +1,7 @@
+Português
+
+Uma calculadora simples com interface gráfica simples, me baseei em um pequeno tutorial para esta construção, para fins de estudos.
+
+English
+
+A simple calculator with a simple graphical interface, I based myself on a small tutorial for this construction, for study purposes.
